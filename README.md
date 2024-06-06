@@ -39,7 +39,7 @@ I work with many different technologies and languages, but my favorites are  **T
   <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="62"/> &emsp;
 </p>
 
-  [[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
+  [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
 
 ### 💻 IDE/Code Editors
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)

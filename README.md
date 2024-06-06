@@ -20,7 +20,7 @@
 - Freelance projects
 - Collaborations to build something great
 
-## Tech Stack & Tools
+## 💼 Tech Stack & Tools
 
 I work with many different technologies and languages, but my favorites are  **TypeScript**, **JavaScript**, **Angular**, **Node.js**, and **Express.js**.
 
@@ -48,7 +48,7 @@ I work with many different technologies and languages, but my favorites are  **T
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](#)
 
 
-### Frameworks
+### 💼 Frameworks
   [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
   [![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff)](#)
   [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
@@ -89,8 +89,8 @@ I work with many different technologies and languages, but my favorites are  **T
 
 - 💬 Ask me about Angular, JavaScript and TypeScript
 - 📫 How to reach me:
-  - 💼 https://www.linkedin.com/in/mayasingh5 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayasingh5)
+  - https://www.linkedin.com/in/mayasingh5
   - hithere.mayasingh@gmail.com 
-  - https://twitter.com/maya_singh5 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/maya_singh5) 
+  - https://twitter.com/maya_singh5 
 
 ⚡ Fun fact: Fascinated by Design Thinking, Architecture in general, and reading about personal finance, because we all need that. And using that knowledge I 💗 to Travel. 

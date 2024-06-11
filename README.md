@@ -2,8 +2,8 @@
 
 **Welcome to my Github Profile** 
 
-- 🔭 I’m currently working on Angular, Nodejs,  
-- 🌱 I’m currently learning React, Nx, NgRx, Redux, Cloud Architecture
+- 🔭 I’m currently working on Angular Web Applications and ExpressJs Backend
+- 🌱 I’m currently learning React & Cloud Architecture
 - 🤔 I’m looking for hacks to improve productivity
 - 👯 I’m looking to collaborate on Angular & Open Source Projects
 

@@ -1,4 +1,4 @@
-## Hi there, My name is Maya👋
+## Hi there 👋
 
 **Welcome to my Github Profile** 
 

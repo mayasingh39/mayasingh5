@@ -2,6 +2,7 @@
 
 **Welcome to my Github Profile** 
 
+- I'm currently learning Svelte
 - 🔭 I’m currently working on Angular Web Applications
 - 👯 I’m looking to collaborate on Angular & Open Source Projects
 

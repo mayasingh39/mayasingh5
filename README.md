@@ -16,7 +16,6 @@
 ## Connect, I am open to chat. 
 
 - 💬 Ask me about Angular, JavaScript and TypeScript
-- 📫 How to reach me: hithere.mayasingh@gmail.com 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayasingh5)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/maya_singh5) 
